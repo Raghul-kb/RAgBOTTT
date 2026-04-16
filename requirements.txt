@@ -1,7 +1,5 @@
 streamlit
 pymupdf
-pytesseract
-pillow
 sentence-transformers
 torch
 langchain
